@@ -1,4 +1,4 @@
-# BMS
+# Book_My_Show_Clone
 BookMyShow-Clone is a recreation of the popular online ticketing platform, aiming to provide a similar experience for users to browse, select, and book movie tickets. 
 This project replicates core functionalities of the BookMyShow platform, offering a user-friendly interface to view movies, check showtimes, select seats, and proceed with ticket bookings.
 
